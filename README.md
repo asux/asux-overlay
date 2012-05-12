@@ -6,4 +6,4 @@ You should have `layman` to be installed:
 
 To add overlay to layman run:
 
-	# layman -o https://raw.github.com/asux/asux-overlay/master/asux.overlay -f -a asux
+	# layman -o https://raw.github.com/asux/asux-overlay/master/asux-overlay.xml -f -a asux
