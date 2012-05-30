@@ -1,5 +1,5 @@
 <layman>
-	<overlay type="git" src="https://github.com/asux/asux-overlay" contact="a.ulyanitsky@gmail.com" status="unofficial" name="asux">
+	<overlay type="git" src="git://github.com/asux/asux-overlay.git" contact="a.ulyanitsky@gmail.com" status="unofficial" name="asux">
 		<link>https://github.com/asux/asux-overlay</link>
 		<description>asux' Gentoo overlay: collection of custom ebuilds</description>
 	</overlay>
